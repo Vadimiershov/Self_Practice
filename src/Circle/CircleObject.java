@@ -13,7 +13,7 @@ public class CircleObject {
         Circle circle2 = new Circle();
         circle2.setInfo(5);
 
-        System.out.println();
+        System.out.println(circle1);
 
 
     }
