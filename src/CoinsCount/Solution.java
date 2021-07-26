@@ -8,9 +8,7 @@ public class Solution extends Change{
 
     while (S<2)
         return null;
-
-
-        return ch;
+    return ch;
     }
 
 
