@@ -1,4 +1,5 @@
 package Oleg;
 
-public class ClassForCommit {
+public class
+ClassForCommit {
 }
